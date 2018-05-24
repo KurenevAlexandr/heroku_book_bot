@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <meta name="keywords"                 content="ebooks, ebook, books, book, free, online, audio">
+    <meta name="description"              content="33000+ free ebooks online">
+    <meta name="classification"           content="public">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+
+    <script type="application/javascript">
+      if (top != self) {
+        top.location.replace ('http://www.gutenberg.org');
+        alert ('Project Gutenberg is a FREE service with NO membership required. If you paid somebody else to get here, make them give you your money back!');
+      }
+    </script> 
+
+    <link rel="stylesheet" type="text/css" href="/css/pg-002.css">    <link rel="shortcut icon"   href="/favicon.ico">
+    <title>Page Not Found - Project Gutenberg</title>
+  </head>
+
+  <body>
+    <div class="menubar">
+      <div id="logo" class="logo">
+        <a tabindex="1"
+           class="logo"
+           href="/wiki/Main_Page"
+           title="Go to Main Page"><img
+              class="logo"
+              src="/pics/pg-logo-002.png"
+              width="129" height="80"
+              alt=""></a>
+      </div>
+
+      <div class="menu">
+        <div class="menu-group menu-group-open">
+          <a class="h1" tabindex="40" accesskey="2" title="Go to the Project Gutenberg Main Page - Accesskey=2" href="/wiki/Main_Page">Main Page</a>
+ <span class="menusep">=&gt;</span>           <a tabindex="11" accesskey="f" title="Go to the No Cost or Freedom? page - Accesskey=f" href="/freedom">No Cost or Freedom?</a>
+ <span class="menusep">--</span>           <a tabindex="12" accesskey="l" title="Go to the Project Gutenberg License page - Accesskey=l" href="/license">License</a>
+ <span class="menusep">--</span>           <a tabindex="13" accesskey="k" title="Go to the Guidelines for l
